@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="zh-CN" data-type="software">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101115">
+  <meta name="page-type" content="software">
+  <meta name="site-kind" content="software">
+  <meta name="description" content="在Tom短剧免费观看开放授权剧情短片，按题材找片、收藏并继续观看。">
+  <meta property="og:title" content="Tom短剧">
+  <meta property="og:description" content="免费观看开放授权剧情短片。">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/steel-hero.webp">
+  <title>Tom短剧</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#app-view">跳到主要内容</a>
+  <svg class="symbols" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="i-home" viewBox="0 0 24 24"><path d="m3 10 9-7 9 7v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="M9 21v-7h6v7"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></symbol>
+    <symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M6 5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16l-6-4-6 4z"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><path d="M8 5.7a1 1 0 0 1 1.5-.9l10 6.3a1 1 0 0 1 0 1.7l-10 6.4a1 1 0 0 1-1.5-.9z" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-film" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 4v16M17 4v16M3 9h4m-4 6h4m10-6h4m-4 6h4"/></symbol>
+    <symbol id="i-source" viewBox="0 0 24 24"><path d="m8 6-6 6 6 6m8-12 6 6-6 6m-3-15-2 18"/></symbol>
+    <symbol id="i-next" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></symbol>
+    <symbol id="i-prev" viewBox="0 0 24 24"><path d="m15 6-6 6 6 6"/></symbol>
+  </svg>
+  <a class="brand" href="#home" aria-label="Tom短剧首页" data-tv>
+    <img src="assets/mark.svg" alt="" width="38" height="38">
+    <span>Tom短剧</span>
+  </a>
+  <aside class="sidebar" aria-label="应用导航">
+    <nav class="main-nav">
+      <a href="#home" data-route="home" data-tv><svg><use href="#i-home"/></svg>首页</a>
+      <a href="#discover" data-route="discover" data-tv><svg><use href="#i-grid"/></svg>片库</a>
+      <a href="#search" data-route="search" data-tv><svg><use href="#i-search"/></svg>搜索</a>
+      <a href="#library" data-route="library" data-tv><svg><use href="#i-bookmark"/></svg>我的片单</a>
+    </nav>
+    <div class="sidebar-footer">
+      <a href="#sources" data-route="sources" data-tv><svg><use href="#i-source"/></svg>片源与授权</a>
+    </div>
+  </aside>
+  <div class="app-frame">
+    <header class="topbar">
+      <span class="current-page" id="page-label">首页</span>
+      <div class="topbar-right">
+        <span class="watch-policy"><span></span>免费 · 无广告</span>
+        <a class="icon-button top-search" href="#search" aria-label="搜索影片" data-tv><svg><use href="#i-search"/></svg></a>
+        <a class="icon-button mobile-sources" href="#sources" aria-label="片源与授权" data-tv><svg><use href="#i-source"/></svg></a>
+      </div>
+    </header>
+    <main id="app-view" tabindex="-1"></main>
+    <footer class="footer">
+      <span>Tom短剧</span>
+      <a href="#sources" data-tv>片源与授权</a>
+    </footer>
+  </div>
+  <dialog id="detail-dialog" class="modal" aria-labelledby="detail-title"></dialog>
+  <dialog id="player-dialog" class="modal" aria-labelledby="player-title">
+    <div class="player-header">
+      <div>
+        <h2 id="player-title" data-player-title></h2>
+        <p data-player-episode-label></p>
+      </div>
+      <button class="icon-button close-button" type="button" data-player-close aria-label="关闭播放器"><svg><use href="#i-close"/></svg></button>
+    </div>
+    <div class="player-layout">
+      <div class="player-screen">
+        <video data-player-video controls playsinline preload="metadata"></video>
+        <p class="player-error" data-player-error role="status" hidden></p>
+      </div>
+      <div class="player-sidebar">
+        <h3>影片列表</h3>
+        <div data-player-list></div>
+        <div class="player-credits" id="player-credits"></div>
+      </div>
+    </div>
+  </dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

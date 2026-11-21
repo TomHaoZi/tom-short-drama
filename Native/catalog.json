@@ -1,0 +1,1677 @@
+{
+  "featuredIds": [
+    "source-origin-guangzhou",
+    "meiguan-road",
+    "bao-zheng-in-duanzhou",
+    "escape-british-museum",
+    "new-year-beast-dragon",
+    "enemy-season-1"
+  ],
+  "shows": [
+    {
+      "id": "source-origin-guangzhou",
+      "title": "源起·从这里出发",
+      "original": "源起",
+      "year": "2026",
+      "length": "约 8–9 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "历史",
+        "悬疑"
+      ],
+      "description": "1925 年省港大罢工期间，一封匿名信揭开码头私放洋货的内幕。林伟民从封存的账册查起，逐步逼近藏在昔日战友之间的真相。",
+      "image": "https://www.gzjjjc.gov.cn/video/0/1/1499/270432_314a9e.png",
+      "hero": "assets/source-origin-hero.jpg",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "广州市纪委监委",
+        "广州日报新媒体有限公司"
+      ],
+      "totalEpisodes": 6,
+      "releaseStatus": "已完结",
+      "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_270432.html",
+      "credit": "广州市纪委监委、广州日报新媒体有限公司",
+      "license": "制作方官方公开发布",
+      "changes": "精选背景取自第一集 2:12 原片画面，播放时连接发行方公开播放器使用的正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "暗涌",
+          "durationLabel": "8:07",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_270432.html",
+          "sources": [
+            "https://gdvideo.southcn.com/1031ae6ebbcf71f180c74531859c0102/d9af3ff42e7a4aaabe53f4845bc84987-39b80c93173e40f69ce9196008227c3f-sd.mp4",
+            "https://gdvideo.southcn.com/00ad0503bbbe71f1ab8ce7e6d47b0102/dec7ab299def4624b7c06039a861ef7f-39b80c93173e40f69ce9196008227c3f-sd.mp4",
+            "https://gdvideo.southcn.com/1031ae6ebbcf71f180c74531859c0102/d9af3ff42e7a4aaabe53f4845bc84987-d0b0e50d6e0130229a1b7c6199de9080-ld.mp4",
+            "https://gdvideo.southcn.com/00ad0503bbbe71f1ab8ce7e6d47b0102/dec7ab299def4624b7c06039a861ef7f-d0b0e50d6e0130229a1b7c6199de9080-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/1031ae6ebbcf71f180c74531859c0102/d9af3ff42e7a4aaabe53f4845bc84987-39b80c93173e40f69ce9196008227c3f-sd.mp4": 720,
+            "https://gdvideo.southcn.com/00ad0503bbbe71f1ab8ce7e6d47b0102/dec7ab299def4624b7c06039a861ef7f-39b80c93173e40f69ce9196008227c3f-sd.mp4": 720,
+            "https://gdvideo.southcn.com/1031ae6ebbcf71f180c74531859c0102/d9af3ff42e7a4aaabe53f4845bc84987-d0b0e50d6e0130229a1b7c6199de9080-ld.mp4": 406,
+            "https://gdvideo.southcn.com/00ad0503bbbe71f1ab8ce7e6d47b0102/dec7ab299def4624b7c06039a861ef7f-d0b0e50d6e0130229a1b7c6199de9080-ld.mp4": 406
+          }
+        },
+        {
+          "number": 2,
+          "title": "风起",
+          "durationLabel": "7:39",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_270433.html",
+          "sources": [
+            "https://gdvideo.southcn.com/702f0829bbd071f1a5fa4531949c0102/c85b8bff362f495cb03667281543b3f0-6976aa73f4e7fda2db3302113c9f10b4-sd.mp4",
+            "https://gdvideo.southcn.com/30060665bbbe71f180d56723a78f0102/820ebb8402634c88a6a91c871ddab910-6976aa73f4e7fda2db3302113c9f10b4-sd.mp4",
+            "https://gdvideo.southcn.com/702f0829bbd071f1a5fa4531949c0102/c85b8bff362f495cb03667281543b3f0-f1843a94f97fcab6c4a16ac25fa52aba-ld.mp4",
+            "https://gdvideo.southcn.com/30060665bbbe71f180d56723a78f0102/820ebb8402634c88a6a91c871ddab910-f1843a94f97fcab6c4a16ac25fa52aba-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/702f0829bbd071f1a5fa4531949c0102/c85b8bff362f495cb03667281543b3f0-6976aa73f4e7fda2db3302113c9f10b4-sd.mp4": 720,
+            "https://gdvideo.southcn.com/30060665bbbe71f180d56723a78f0102/820ebb8402634c88a6a91c871ddab910-6976aa73f4e7fda2db3302113c9f10b4-sd.mp4": 720,
+            "https://gdvideo.southcn.com/702f0829bbd071f1a5fa4531949c0102/c85b8bff362f495cb03667281543b3f0-f1843a94f97fcab6c4a16ac25fa52aba-ld.mp4": 406,
+            "https://gdvideo.southcn.com/30060665bbbe71f180d56723a78f0102/820ebb8402634c88a6a91c871ddab910-f1843a94f97fcab6c4a16ac25fa52aba-ld.mp4": 406
+          }
+        },
+        {
+          "number": 3,
+          "title": "浊浪",
+          "durationLabel": "7:57",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_270434.html",
+          "sources": [
+            "https://gdvideo.southcn.com/707e118abbd071f1adc55017f0e80102/670cefa01be14b2d89c6798ba3721424-dfc9c1ed9a0016c8795752278e371634-sd.mp4",
+            "https://gdvideo.southcn.com/40bfa3a8bbbe71f181a5e6e6d56a0102/9398f703235744bd9a8acbfb1bf58a22-dfc9c1ed9a0016c8795752278e371634-sd.mp4",
+            "https://gdvideo.southcn.com/707e118abbd071f1adc55017f0e80102/670cefa01be14b2d89c6798ba3721424-47ecce8c96b767463eabf78d6265d453-ld.mp4",
+            "https://gdvideo.southcn.com/40bfa3a8bbbe71f181a5e6e6d56a0102/9398f703235744bd9a8acbfb1bf58a22-47ecce8c96b767463eabf78d6265d453-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/707e118abbd071f1adc55017f0e80102/670cefa01be14b2d89c6798ba3721424-dfc9c1ed9a0016c8795752278e371634-sd.mp4": 720,
+            "https://gdvideo.southcn.com/40bfa3a8bbbe71f181a5e6e6d56a0102/9398f703235744bd9a8acbfb1bf58a22-dfc9c1ed9a0016c8795752278e371634-sd.mp4": 720,
+            "https://gdvideo.southcn.com/707e118abbd071f1adc55017f0e80102/670cefa01be14b2d89c6798ba3721424-47ecce8c96b767463eabf78d6265d453-ld.mp4": 406,
+            "https://gdvideo.southcn.com/40bfa3a8bbbe71f181a5e6e6d56a0102/9398f703235744bd9a8acbfb1bf58a22-47ecce8c96b767463eabf78d6265d453-ld.mp4": 406
+          }
+        },
+        {
+          "number": 4,
+          "title": "惊雷",
+          "durationLabel": "8:24",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_270435.html",
+          "sources": [
+            "https://gdvideo.southcn.com/d0e6bde7bbd071f1819ff6e6e55b0102/b61a7be9c3184e92ae31afd63cbfaa40-81da0f12b4a10fd2769613ca10b857be-sd.mp4",
+            "https://gdvideo.southcn.com/d07681f1bbbe71f180ad5017e1f80102/e5456393206446f9a3ee52391985af96-81da0f12b4a10fd2769613ca10b857be-sd.mp4",
+            "https://gdvideo.southcn.com/d0e6bde7bbd071f1819ff6e6e55b0102/b61a7be9c3184e92ae31afd63cbfaa40-184bf12c19275ded3d88c788dbbcdde2-ld.mp4",
+            "https://gdvideo.southcn.com/d07681f1bbbe71f180ad5017e1f80102/e5456393206446f9a3ee52391985af96-184bf12c19275ded3d88c788dbbcdde2-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/d0e6bde7bbd071f1819ff6e6e55b0102/b61a7be9c3184e92ae31afd63cbfaa40-81da0f12b4a10fd2769613ca10b857be-sd.mp4": 720,
+            "https://gdvideo.southcn.com/d07681f1bbbe71f180ad5017e1f80102/e5456393206446f9a3ee52391985af96-81da0f12b4a10fd2769613ca10b857be-sd.mp4": 720,
+            "https://gdvideo.southcn.com/d0e6bde7bbd071f1819ff6e6e55b0102/b61a7be9c3184e92ae31afd63cbfaa40-184bf12c19275ded3d88c788dbbcdde2-ld.mp4": 406,
+            "https://gdvideo.southcn.com/d07681f1bbbe71f180ad5017e1f80102/e5456393206446f9a3ee52391985af96-184bf12c19275ded3d88c788dbbcdde2-ld.mp4": 406
+          }
+        },
+        {
+          "number": 5,
+          "title": "焚心",
+          "durationLabel": "7:32",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_270436.html",
+          "sources": [
+            "https://gdvideo.southcn.com/f0b6bc3ebbd171f18226e7f6c5490102/04c090e143a7420aac427bc8d5d302c0-a2cac5749905bbac8cfed1239b00bf9e-sd.mp4",
+            "https://gdvideo.southcn.com/70b6bb63bbbf71f1822ae6e7c5780102/1663377f9cbc43e38201cec3cf36f14d-b5bf42dd20666716879698df4a1c95cf-sd.mp4",
+            "https://gdvideo.southcn.com/f0b6bc3ebbd171f18226e7f6c5490102/04c090e143a7420aac427bc8d5d302c0-bf87404af1054e33670f5c6cffc380ed-ld.mp4",
+            "https://gdvideo.southcn.com/70b6bb63bbbf71f1822ae6e7c5780102/1663377f9cbc43e38201cec3cf36f14d-bf87404af1054e33670f5c6cffc380ed-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/f0b6bc3ebbd171f18226e7f6c5490102/04c090e143a7420aac427bc8d5d302c0-a2cac5749905bbac8cfed1239b00bf9e-sd.mp4": 720,
+            "https://gdvideo.southcn.com/70b6bb63bbbf71f1822ae6e7c5780102/1663377f9cbc43e38201cec3cf36f14d-b5bf42dd20666716879698df4a1c95cf-sd.mp4": 720,
+            "https://gdvideo.southcn.com/f0b6bc3ebbd171f18226e7f6c5490102/04c090e143a7420aac427bc8d5d302c0-bf87404af1054e33670f5c6cffc380ed-ld.mp4": 406,
+            "https://gdvideo.southcn.com/70b6bb63bbbf71f1822ae6e7c5780102/1663377f9cbc43e38201cec3cf36f14d-bf87404af1054e33670f5c6cffc380ed-ld.mp4": 406
+          }
+        },
+        {
+          "number": 6,
+          "title": "对质",
+          "durationLabel": "9:23",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_270437.html",
+          "sources": [
+            "https://gdvideo.southcn.com/c032a8debbd171f18239e6e7c5780102/0aad2ccf627548ebb5c527a0c9e95212-a9a6e7bc4ef67910d29e3790eb32201c-sd.mp4",
+            "https://gdvideo.southcn.com/40162296bbbf71f1a4116732b78e0102/c60e3e56a65249edbe4a32bc24399720-a0449ccc8420fe3ba846fbd75a2fd7b2-sd.mp4",
+            "https://gdvideo.southcn.com/c032a8debbd171f18239e6e7c5780102/0aad2ccf627548ebb5c527a0c9e95212-cbf0bbd37b801224776e6aeb902edb24-ld.mp4",
+            "https://gdvideo.southcn.com/40162296bbbf71f1a4116732b78e0102/c60e3e56a65249edbe4a32bc24399720-cbf0bbd37b801224776e6aeb902edb24-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/c032a8debbd171f18239e6e7c5780102/0aad2ccf627548ebb5c527a0c9e95212-a9a6e7bc4ef67910d29e3790eb32201c-sd.mp4": 720,
+            "https://gdvideo.southcn.com/40162296bbbf71f1a4116732b78e0102/c60e3e56a65249edbe4a32bc24399720-a0449ccc8420fe3ba846fbd75a2fd7b2-sd.mp4": 720,
+            "https://gdvideo.southcn.com/c032a8debbd171f18239e6e7c5780102/0aad2ccf627548ebb5c527a0c9e95212-cbf0bbd37b801224776e6aeb902edb24-ld.mp4": 406,
+            "https://gdvideo.southcn.com/40162296bbbf71f1a4116732b78e0102/c60e3e56a65249edbe4a32bc24399720-cbf0bbd37b801224776e6aeb902edb24-ld.mp4": 406
+          }
+        }
+      ]
+    },
+    {
+      "id": "lijian-1927",
+      "title": "利剑1927",
+      "original": "",
+      "year": "2026",
+      "length": "约 8–10 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "历史",
+        "剧情"
+      ],
+      "description": "1927年首届中央监察委员会成立。王荷波、杨匏安等人临危受命，在危局中展开隐秘调查与较量。",
+      "image": "https://www.conghua.gov.cn/video/0/17/17452/11046356_9bc780.jpeg",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "中央纪委国家监委网站展播",
+        "广州市从化区人民政府发布"
+      ],
+      "totalEpisodes": 5,
+      "releaseStatus": "已完结",
+      "source": "https://www.conghua.gov.cn/ljwh/content/post_11046356.html",
+      "credit": "中央纪委国家监委网站展播、广州市从化区人民政府发布",
+      "license": "官方展播公开发布",
+      "changes": "片库保留原发布页，播放时访问发行方公开播放器使用的正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "暗夜",
+          "durationLabel": "9:31",
+          "source": "https://www.conghua.gov.cn/ljwh/content/post_11046356.html",
+          "sources": [
+            "https://gdvideo.southcn.com/307943b4c7a871f180094531948c0102/0e938d24f84343d5bd77fb382017eb64-afaeb15149503f8ffccedd432028dfdc-sd.mp4",
+            "https://gdvideo.southcn.com/307943b4c7a871f180094531948c0102/0e938d24f84343d5bd77fb382017eb64-666098abad4e83732a75a15186f54e0c-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/307943b4c7a871f180094531948c0102/0e938d24f84343d5bd77fb382017eb64-afaeb15149503f8ffccedd432028dfdc-sd.mp4": 534,
+            "https://gdvideo.southcn.com/307943b4c7a871f180094531948c0102/0e938d24f84343d5bd77fb382017eb64-666098abad4e83732a75a15186f54e0c-ld.mp4": 300
+          }
+        },
+        {
+          "number": 2,
+          "title": "启航",
+          "durationLabel": "8:17",
+          "source": "https://www.conghua.gov.cn/ljwh/content/post_11046356.html",
+          "sources": [
+            "https://gdvideo.southcn.com/a0f6245dc7a971f18c536732b68e0102/843d081ddf6d42e08415f8d0f0185655-dd23c52b3022354ed5c5cf1e3adf5738-sd.mp4",
+            "https://gdvideo.southcn.com/a0f6245dc7a971f18c536732b68e0102/843d081ddf6d42e08415f8d0f0185655-32c325ed766bef1aa0272210f039ff0b-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/a0f6245dc7a971f18c536732b68e0102/843d081ddf6d42e08415f8d0f0185655-dd23c52b3022354ed5c5cf1e3adf5738-sd.mp4": 534,
+            "https://gdvideo.southcn.com/a0f6245dc7a971f18c536732b68e0102/843d081ddf6d42e08415f8d0f0185655-32c325ed766bef1aa0272210f039ff0b-ld.mp4": 300
+          }
+        },
+        {
+          "number": 3,
+          "title": "激浊",
+          "durationLabel": "9:18",
+          "source": "https://www.conghua.gov.cn/ljwh/content/post_11046356.html",
+          "sources": [
+            "https://gdvideo.southcn.com/a0a8ad72c7a971f184e0e6e6d56a0102/3afc5385b5b84ba2bd7f10f18b07ebee-5e705e1b8fbd3abf7935637fcd155fc8-sd.mp4",
+            "https://gdvideo.southcn.com/a0a8ad72c7a971f184e0e6e6d56a0102/3afc5385b5b84ba2bd7f10f18b07ebee-026e8f41d58203a4482e1c4899c026c1-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/a0a8ad72c7a971f184e0e6e6d56a0102/3afc5385b5b84ba2bd7f10f18b07ebee-5e705e1b8fbd3abf7935637fcd155fc8-sd.mp4": 534,
+            "https://gdvideo.southcn.com/a0a8ad72c7a971f184e0e6e6d56a0102/3afc5385b5b84ba2bd7f10f18b07ebee-026e8f41d58203a4482e1c4899c026c1-ld.mp4": 300
+          }
+        },
+        {
+          "number": 4,
+          "title": "使命",
+          "durationLabel": "9:41",
+          "source": "https://www.conghua.gov.cn/ljwh/content/post_11046356.html",
+          "sources": [
+            "https://gdvideo.southcn.com/c0186684c7a971f1b16a5017f0e90102/19f08846e97d4a099e07b45317ec3a10-de9356afc5baba5d04a709ff88bb3734-sd.mp4",
+            "https://gdvideo.southcn.com/c0186684c7a971f1b16a5017f0e90102/19f08846e97d4a099e07b45317ec3a10-c50acd395a4c2feb1b28804a44b0b8f8-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/c0186684c7a971f1b16a5017f0e90102/19f08846e97d4a099e07b45317ec3a10-de9356afc5baba5d04a709ff88bb3734-sd.mp4": 534,
+            "https://gdvideo.southcn.com/c0186684c7a971f1b16a5017f0e90102/19f08846e97d4a099e07b45317ec3a10-c50acd395a4c2feb1b28804a44b0b8f8-ld.mp4": 300
+          }
+        },
+        {
+          "number": 5,
+          "title": "永生",
+          "durationLabel": "9:50",
+          "source": "https://www.conghua.gov.cn/ljwh/content/post_11046356.html",
+          "sources": [
+            "https://gdvideo.southcn.com/a06e1a9ac7a971f1b3bfe7e6d5680102/2e1237805d6e47158e9499705c1cc135-8f992943fef8981a6b23fe6d3bd3b3de-sd.mp4",
+            "https://gdvideo.southcn.com/a06e1a9ac7a971f1b3bfe7e6d5680102/2e1237805d6e47158e9499705c1cc135-7af716d9756c1484b95ff363edffc808-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/a06e1a9ac7a971f1b3bfe7e6d5680102/2e1237805d6e47158e9499705c1cc135-8f992943fef8981a6b23fe6d3bd3b3de-sd.mp4": 534,
+            "https://gdvideo.southcn.com/a06e1a9ac7a971f1b3bfe7e6d5680102/2e1237805d6e47158e9499705c1cc135-7af716d9756c1484b95ff363edffc808-ld.mp4": 300
+          }
+        }
+      ]
+    },
+    {
+      "id": "yuexiu-sauce",
+      "title": "酱心",
+      "original": "",
+      "year": "2025",
+      "length": "约 3–5 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "创业"
+      ],
+      "description": "落魄的打工人靠一门做酱的手艺重新起步，创业有了起色后，他又遇到要不要守住原来做法的抉择。",
+      "image": "https://www.gzjjjc.gov.cn/video/0/1/1327/262216_cb8ab1.jpeg",
+      "region": "中国大陆",
+      "totalEpisodes": 3,
+      "releaseStatus": "已完结",
+      "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262216.html",
+      "credit": "越秀集团",
+      "license": "发行方官方公开发布",
+      "changes": "播放时访问发行方公开播放器使用的原始正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "正片",
+          "durationLabel": "4:55",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262216.html",
+          "sources": [
+            "https://gdvideo.southcn.com/2098383b7d9171f095126733a68f0102/68968358a0f341ce91b5294d9b7a9d05-9f4d4abe2654531459a6f8ce9491fb55-sd.mp4",
+            "https://gdvideo.southcn.com/2098383b7d9171f095126733a68f0102/68968358a0f341ce91b5294d9b7a9d05-c45e8986349327a4a3dcfe212cdac7bc-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/2098383b7d9171f095126733a68f0102/68968358a0f341ce91b5294d9b7a9d05-9f4d4abe2654531459a6f8ce9491fb55-sd.mp4": 720,
+            "https://gdvideo.southcn.com/2098383b7d9171f095126733a68f0102/68968358a0f341ce91b5294d9b7a9d05-c45e8986349327a4a3dcfe212cdac7bc-ld.mp4": 406
+          }
+        },
+        {
+          "number": 2,
+          "title": "正片",
+          "durationLabel": "4:46",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262217.html",
+          "sources": [
+            "https://gdvideo.southcn.com/60a1286d7d8f71f0b5425420848c0102/5d6d73ccd08040eca2b2471cb1ef41a1-19287827de06ec7428c45932af1023b2-sd.mp4",
+            "https://gdvideo.southcn.com/60a1286d7d8f71f0b5425420848c0102/5d6d73ccd08040eca2b2471cb1ef41a1-d71ae9f78f17d69861f6d8dd5dbbf61a-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/60a1286d7d8f71f0b5425420848c0102/5d6d73ccd08040eca2b2471cb1ef41a1-19287827de06ec7428c45932af1023b2-sd.mp4": 720,
+            "https://gdvideo.southcn.com/60a1286d7d8f71f0b5425420848c0102/5d6d73ccd08040eca2b2471cb1ef41a1-d71ae9f78f17d69861f6d8dd5dbbf61a-ld.mp4": 406
+          }
+        },
+        {
+          "number": 3,
+          "title": "正片",
+          "durationLabel": "3:38",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262218.html",
+          "sources": [
+            "https://gdvideo.southcn.com/702eac847d8e71f0a9464531959c0102/ebc5c3d058d240caab85803cba0f24a4-aa082ac3822f51d93a89109e032b084e-sd.mp4",
+            "https://gdvideo.southcn.com/702eac847d8e71f0a9464531959c0102/ebc5c3d058d240caab85803cba0f24a4-88e3a9cfecd9c634a64115a3e24427ce-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/702eac847d8e71f0a9464531959c0102/ebc5c3d058d240caab85803cba0f24a4-aa082ac3822f51d93a89109e032b084e-sd.mp4": 720,
+            "https://gdvideo.southcn.com/702eac847d8e71f0a9464531959c0102/ebc5c3d058d240caab85803cba0f24a4-88e3a9cfecd9c634a64115a3e24427ce-ld.mp4": 406
+          }
+        }
+      ]
+    },
+    {
+      "id": "clear-wind-way-home",
+      "title": "清风引归途",
+      "original": "",
+      "year": "2025",
+      "length": "约 2–5 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "悬疑"
+      ],
+      "description": "广州普法发布的六集真人短剧，围绕一次起于人情的违规往来，追问当事人如何面对自己的选择。",
+      "image": "https://www.gzjjjc.gov.cn/video/0/1/1337/262313_7dee9c.png",
+      "region": "中国大陆",
+      "totalEpisodes": 6,
+      "releaseStatus": "已完结",
+      "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262313.html",
+      "credit": "广州普法",
+      "license": "发行方官方公开发布",
+      "changes": "播放时访问发行方公开播放器使用的原始正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "正片",
+          "durationLabel": "3:35",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262313.html",
+          "sources": [
+            "https://gdvideo.southcn.com/f0d2c18e819671f094706633b79f0102/aa9221260f17401597db0b37ae0ff3cb-2d2ac704dbb88de4d7a011c27db9fd9b-sd.mp4",
+            "https://gdvideo.southcn.com/f0d2c18e819671f094706633b79f0102/aa9221260f17401597db0b37ae0ff3cb-f2c3d9447858a5f672fd795655b5fecf-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/f0d2c18e819671f094706633b79f0102/aa9221260f17401597db0b37ae0ff3cb-2d2ac704dbb88de4d7a011c27db9fd9b-sd.mp4": 720,
+            "https://gdvideo.southcn.com/f0d2c18e819671f094706633b79f0102/aa9221260f17401597db0b37ae0ff3cb-f2c3d9447858a5f672fd795655b5fecf-ld.mp4": 405
+          }
+        },
+        {
+          "number": 2,
+          "title": "正片",
+          "durationLabel": "2:52",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262314.html",
+          "sources": [
+            "https://gdvideo.southcn.com/d05e75f6819671f0bfe45420848d0102/b02fd2b9c249443b8706d651c8412c69-9057c5bf10488c6f07183bdc124a4785-sd.mp4",
+            "https://gdvideo.southcn.com/d05e75f6819671f0bfe45420848d0102/b02fd2b9c249443b8706d651c8412c69-67982b41b0e684d23d1bf71d3ed7500c-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/d05e75f6819671f0bfe45420848d0102/b02fd2b9c249443b8706d651c8412c69-9057c5bf10488c6f07183bdc124a4785-sd.mp4": 720,
+            "https://gdvideo.southcn.com/d05e75f6819671f0bfe45420848d0102/b02fd2b9c249443b8706d651c8412c69-67982b41b0e684d23d1bf71d3ed7500c-ld.mp4": 405
+          }
+        },
+        {
+          "number": 3,
+          "title": "正片",
+          "durationLabel": "4:57",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262315.html",
+          "sources": [
+            "https://gdvideo.southcn.com/809e0c5f819871f080045017f1e80102/7fa61d4c0d5349ef9474ea0a3c4c2b22-2628609e5d32dd5fbe64346c88bf8c6d-sd.mp4",
+            "https://gdvideo.southcn.com/809e0c5f819871f080045017f1e80102/7fa61d4c0d5349ef9474ea0a3c4c2b22-93069620666c05fb0dbe67e415d07cb0-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/809e0c5f819871f080045017f1e80102/7fa61d4c0d5349ef9474ea0a3c4c2b22-2628609e5d32dd5fbe64346c88bf8c6d-sd.mp4": 720,
+            "https://gdvideo.southcn.com/809e0c5f819871f080045017f1e80102/7fa61d4c0d5349ef9474ea0a3c4c2b22-93069620666c05fb0dbe67e415d07cb0-ld.mp4": 405
+          }
+        },
+        {
+          "number": 4,
+          "title": "正片",
+          "durationLabel": "5:11",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262316.html",
+          "sources": [
+            "https://gdvideo.southcn.com/00df35dd819971f080124531858c0102/3e362938b3e24429b2c73de9165ba5e2-7ce785851fc92b318817985f5c6f7089-sd.mp4",
+            "https://gdvideo.southcn.com/00df35dd819971f080124531858c0102/3e362938b3e24429b2c73de9165ba5e2-cc4b4b4d00c43f64b2bd076fed01d4fd-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/00df35dd819971f080124531858c0102/3e362938b3e24429b2c73de9165ba5e2-7ce785851fc92b318817985f5c6f7089-sd.mp4": 720,
+            "https://gdvideo.southcn.com/00df35dd819971f080124531858c0102/3e362938b3e24429b2c73de9165ba5e2-cc4b4b4d00c43f64b2bd076fed01d4fd-ld.mp4": 405
+          }
+        },
+        {
+          "number": 5,
+          "title": "正片",
+          "durationLabel": "2:40",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262318.html",
+          "sources": [
+            "https://gdvideo.southcn.com/404e8d60819c71f080134531858c0102/c1bc8a7f67d149829d5ab319e25b9b16-5a5185c8017f43bbfeeb7d21e12e0bc8-sd.mp4",
+            "https://gdvideo.southcn.com/404e8d60819c71f080134531858c0102/c1bc8a7f67d149829d5ab319e25b9b16-401fa4ac05b0ad3f44eb7f2a8348b933-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/404e8d60819c71f080134531858c0102/c1bc8a7f67d149829d5ab319e25b9b16-5a5185c8017f43bbfeeb7d21e12e0bc8-sd.mp4": 720,
+            "https://gdvideo.southcn.com/404e8d60819c71f080134531858c0102/c1bc8a7f67d149829d5ab319e25b9b16-401fa4ac05b0ad3f44eb7f2a8348b933-ld.mp4": 405
+          }
+        },
+        {
+          "number": 6,
+          "title": "正片",
+          "durationLabel": "3:28",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262319.html",
+          "sources": [
+            "https://gdvideo.southcn.com/803c1b5d819d71f0bfdc5017f1f80102/6efec3e8d94440de96c4317485daa577-437ba8dd499e470911ee654e28241a12-sd.mp4",
+            "https://gdvideo.southcn.com/803c1b5d819d71f0bfdc5017f1f80102/6efec3e8d94440de96c4317485daa577-707e3c28d83c5345c7bc5d1c353d3968-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/803c1b5d819d71f0bfdc5017f1f80102/6efec3e8d94440de96c4317485daa577-437ba8dd499e470911ee654e28241a12-sd.mp4": 720,
+            "https://gdvideo.southcn.com/803c1b5d819d71f0bfdc5017f1f80102/6efec3e8d94440de96c4317485daa577-707e3c28d83c5345c7bc5d1c353d3968-ld.mp4": 405
+          }
+        }
+      ]
+    },
+    {
+      "id": "kong-fansen",
+      "title": "孔繁森",
+      "original": "孔繁森",
+      "year": "2026",
+      "length": "微短剧",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "历史",
+        "传记"
+      ],
+      "description": "孔繁森在聊城任职期间坚持公私分明，帮助乡亲，后来再次奔赴西藏。这部三集短剧根据真实事迹改编。",
+      "image": "https://www.conghua.gov.cn/video/0/17/17427/11032492_4ab04a.jpeg",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "山东省纪委监委"
+      ],
+      "totalEpisodes": 3,
+      "releaseStatus": "已完结",
+      "source": "https://www.conghua.gov.cn/ljwh/content/post_11032492.html",
+      "credit": "山东省纪委监委",
+      "license": "制作方官方公开发布",
+      "changes": "片库保留原发布页，播放时访问发行方公开播放器使用的正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "第一集",
+          "image": "https://www.conghua.gov.cn/video/0/17/17427/11032492_4ab04a.jpeg",
+          "source": "https://www.conghua.gov.cn/ljwh/content/post_11032492.html",
+          "sources": [
+            "https://gdvideo.southcn.com/f0a42efbc38971f1844af6e6e55b0102/ac1618341ffc408b806fc5c4dd4a8323-bc31c8cc3cf6dfc1425d1c2edee61502-sd.mp4",
+            "https://gdvideo.southcn.com/f0a42efbc38971f1844af6e6e55b0102/ac1618341ffc408b806fc5c4dd4a8323-7a4d4994e0748c2ec82f2d1ca0bba409-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/f0a42efbc38971f1844af6e6e55b0102/ac1618341ffc408b806fc5c4dd4a8323-bc31c8cc3cf6dfc1425d1c2edee61502-sd.mp4": 720,
+            "https://gdvideo.southcn.com/f0a42efbc38971f1844af6e6e55b0102/ac1618341ffc408b806fc5c4dd4a8323-7a4d4994e0748c2ec82f2d1ca0bba409-ld.mp4": 406
+          },
+          "durationLabel": "8:16"
+        },
+        {
+          "number": 2,
+          "title": "第二集",
+          "image": "https://www.conghua.gov.cn/video/0/17/17428/11032492_084e21.jpeg",
+          "source": "https://www.conghua.gov.cn/ljwh/content/post_11032492.html",
+          "sources": [
+            "https://gdvideo.southcn.com/a0a63f0bc38a71f1a33a5420848d0102/5eab5e7495d54b3e8c0f890ca0299178-317203357df47cbf45e63caba9fd8241-sd.mp4",
+            "https://gdvideo.southcn.com/a0a63f0bc38a71f1a33a5420848d0102/5eab5e7495d54b3e8c0f890ca0299178-fc1be172115f2eaa7ea36e10a4ab6c11-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/a0a63f0bc38a71f1a33a5420848d0102/5eab5e7495d54b3e8c0f890ca0299178-317203357df47cbf45e63caba9fd8241-sd.mp4": 720,
+            "https://gdvideo.southcn.com/a0a63f0bc38a71f1a33a5420848d0102/5eab5e7495d54b3e8c0f890ca0299178-fc1be172115f2eaa7ea36e10a4ab6c11-ld.mp4": 406
+          },
+          "durationLabel": "9:35"
+        },
+        {
+          "number": 3,
+          "title": "第三集",
+          "image": "https://www.conghua.gov.cn/video/0/17/17429/11032492_527606.jpeg",
+          "source": "https://www.conghua.gov.cn/ljwh/content/post_11032492.html",
+          "sources": [
+            "https://gdvideo.southcn.com/30a5cf23c38a71f1ae95e7e6d47b0102/f37a95ba0d094161a8b6d25efae11d85-36de28dbb0b40a98e11648b26847f06e-sd.mp4",
+            "https://gdvideo.southcn.com/30a5cf23c38a71f1ae95e7e6d47b0102/f37a95ba0d094161a8b6d25efae11d85-c3eccfe9dbb8f93bd84daf6cc8c6661b-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/30a5cf23c38a71f1ae95e7e6d47b0102/f37a95ba0d094161a8b6d25efae11d85-36de28dbb0b40a98e11648b26847f06e-sd.mp4": 720,
+            "https://gdvideo.southcn.com/30a5cf23c38a71f1ae95e7e6d47b0102/f37a95ba0d094161a8b6d25efae11d85-c3eccfe9dbb8f93bd84daf6cc8c6661b-ld.mp4": 406
+          },
+          "durationLabel": "6:28"
+        }
+      ]
+    },
+    {
+      "id": "bug-with-correction",
+      "title": "容错纠错——BUG启示录",
+      "original": "",
+      "year": "2025",
+      "length": "约 8–10 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "职场"
+      ],
+      "description": "一次工作中的失误如何界定，出了问题又该怎样纠正？两集短剧从具体的工作场景切入，呈现调查和处置的过程。",
+      "image": "https://www.gzjjjc.gov.cn/video/0/1/1319/262195_e96f76.jpeg",
+      "region": "中国大陆",
+      "totalEpisodes": 2,
+      "releaseStatus": "已完结",
+      "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262195.html",
+      "credit": "广州市纪委监委网站发布",
+      "license": "发行方官方公开发布",
+      "changes": "播放时访问发行方公开播放器使用的原始正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "正片",
+          "durationLabel": "9:50",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262195.html",
+          "sources": [
+            "https://gdvideo.southcn.com/209885e57bff71f0801d5017e1f90102/1c36a72b521448e1bae86211e295ec3a-1449816331aa6c2b10fc5f0868fbee59-sd.mp4",
+            "https://gdvideo.southcn.com/209885e57bff71f0801d5017e1f90102/1c36a72b521448e1bae86211e295ec3a-1ee23aab30a57966d2b47af53cbf301a-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/209885e57bff71f0801d5017e1f90102/1c36a72b521448e1bae86211e295ec3a-1449816331aa6c2b10fc5f0868fbee59-sd.mp4": 720,
+            "https://gdvideo.southcn.com/209885e57bff71f0801d5017e1f90102/1c36a72b521448e1bae86211e295ec3a-1ee23aab30a57966d2b47af53cbf301a-ld.mp4": 406
+          }
+        },
+        {
+          "number": 2,
+          "title": "正片",
+          "durationLabel": "8:39",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262196.html",
+          "sources": [
+            "https://gdvideo.southcn.com/9032846b7c0271f0914f4531959c0102/cbd94ec18b124e9ca8dd4bdf0cb19070-d7d64302dfd6ed7ace7fe1b6804c54af-sd.mp4",
+            "https://gdvideo.southcn.com/9032846b7c0271f0914f4531959c0102/cbd94ec18b124e9ca8dd4bdf0cb19070-10343c0fe74c7cbe969dfb2fe7b0a97d-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/9032846b7c0271f0914f4531959c0102/cbd94ec18b124e9ca8dd4bdf0cb19070-d7d64302dfd6ed7ace7fe1b6804c54af-sd.mp4": 720,
+            "https://gdvideo.southcn.com/9032846b7c0271f0914f4531959c0102/cbd94ec18b124e9ca8dd4bdf0cb19070-10343c0fe74c7cbe969dfb2fe7b0a97d-ld.mp4": 406
+          }
+        }
+      ]
+    },
+    {
+      "id": "road-yu-jincheng",
+      "title": "路",
+      "original": "",
+      "year": "2025",
+      "length": "约 1–3 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "剧情"
+      ],
+      "description": "路桥公司新任董事余锦程在大学同学的拉拢下介入工程利益交易。随着调查深入，他过去做过的选择一一浮出水面。",
+      "image": "https://www.gzjjjc.gov.cn/video/0/1/1330/262262_5e905c.jpeg",
+      "region": "中国大陆",
+      "totalEpisodes": 5,
+      "releaseStatus": "已完结",
+      "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262262.html",
+      "credit": "广州市纪委监委",
+      "license": "发行方官方公开发布",
+      "changes": "播放时访问发行方公开播放器使用的原始正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "正片",
+          "durationLabel": "1:54",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262262.html",
+          "sources": [
+            "https://gdvideo.southcn.com/c0eca90f7e6071f0942f6633b79f0102/08b6aecc37604de4ac0c0e052810dde7-e5a76dc5236a25ad3589d8c6cc8a7d55-sd.mp4",
+            "https://gdvideo.southcn.com/c0eca90f7e6071f0942f6633b79f0102/08b6aecc37604de4ac0c0e052810dde7-287b0c436fdf9c4eb413bb85538a52cc-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/c0eca90f7e6071f0942f6633b79f0102/08b6aecc37604de4ac0c0e052810dde7-e5a76dc5236a25ad3589d8c6cc8a7d55-sd.mp4": 720,
+            "https://gdvideo.southcn.com/c0eca90f7e6071f0942f6633b79f0102/08b6aecc37604de4ac0c0e052810dde7-287b0c436fdf9c4eb413bb85538a52cc-ld.mp4": 406
+          }
+        },
+        {
+          "number": 2,
+          "title": "正片",
+          "durationLabel": "1:29",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262263.html",
+          "sources": [
+            "https://gdvideo.southcn.com/d03ab8937e6071f09a684531948c0102/b2a52b732bd54729ad36059eed6940aa-77fece708e2e0a5d75575ef2ba58e76d-sd.mp4",
+            "https://gdvideo.southcn.com/d03ab8937e6071f09a684531948c0102/b2a52b732bd54729ad36059eed6940aa-81d07ae871007cd824e7fde201701ae8-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/d03ab8937e6071f09a684531948c0102/b2a52b732bd54729ad36059eed6940aa-77fece708e2e0a5d75575ef2ba58e76d-sd.mp4": 720,
+            "https://gdvideo.southcn.com/d03ab8937e6071f09a684531948c0102/b2a52b732bd54729ad36059eed6940aa-81d07ae871007cd824e7fde201701ae8-ld.mp4": 406
+          }
+        },
+        {
+          "number": 3,
+          "title": "正片",
+          "durationLabel": "1:22",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262264.html",
+          "sources": [
+            "https://gdvideo.southcn.com/c0694fb07e6071f0bfe24531858c0102/96563552be6f436fa830f1b0af35779c-c8d378e56c304e0405cb2516d99fc9ca-sd.mp4",
+            "https://gdvideo.southcn.com/c0694fb07e6071f0bfe24531858c0102/96563552be6f436fa830f1b0af35779c-5c07e7778a12e140d8e17570aa920a81-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/c0694fb07e6071f0bfe24531858c0102/96563552be6f436fa830f1b0af35779c-c8d378e56c304e0405cb2516d99fc9ca-sd.mp4": 720,
+            "https://gdvideo.southcn.com/c0694fb07e6071f0bfe24531858c0102/96563552be6f436fa830f1b0af35779c-5c07e7778a12e140d8e17570aa920a81-ld.mp4": 406
+          }
+        },
+        {
+          "number": 4,
+          "title": "正片",
+          "durationLabel": "2:13",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262265.html",
+          "sources": [
+            "https://gdvideo.southcn.com/9018d6547e6171f0bf974531859c0102/ae4f42e19599478e828b0f1086621971-f7ea2d9f77070bf389327635792c4714-sd.mp4",
+            "https://gdvideo.southcn.com/9018d6547e6171f0bf974531859c0102/ae4f42e19599478e828b0f1086621971-d398d9aeb55ceee7f96aaf301939db7c-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/9018d6547e6171f0bf974531859c0102/ae4f42e19599478e828b0f1086621971-f7ea2d9f77070bf389327635792c4714-sd.mp4": 720,
+            "https://gdvideo.southcn.com/9018d6547e6171f0bf974531859c0102/ae4f42e19599478e828b0f1086621971-d398d9aeb55ceee7f96aaf301939db7c-ld.mp4": 406
+          }
+        },
+        {
+          "number": 5,
+          "title": "正片",
+          "durationLabel": "2:42",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262266.html",
+          "sources": [
+            "https://gdvideo.southcn.com/6032ae6f7e6171f0b52c6732b78e0102/04fa0191d44c494dabbfd1a2d9908f11-816e95d3a926d14a598049050275a9a4-sd.mp4",
+            "https://gdvideo.southcn.com/6032ae6f7e6171f0b52c6732b78e0102/04fa0191d44c494dabbfd1a2d9908f11-1be40458b549073e2a6cab787879f0f9-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/6032ae6f7e6171f0b52c6732b78e0102/04fa0191d44c494dabbfd1a2d9908f11-816e95d3a926d14a598049050275a9a4-sd.mp4": 720,
+            "https://gdvideo.southcn.com/6032ae6f7e6171f0b52c6732b78e0102/04fa0191d44c494dabbfd1a2d9908f11-1be40458b549073e2a6cab787879f0f9-ld.mp4": 406
+          }
+        }
+      ]
+    },
+    {
+      "id": "meiguan-road",
+      "title": "梅关道",
+      "original": "",
+      "year": "2026",
+      "length": "约 10 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "历史",
+        "古装"
+      ],
+      "description": "辞官归乡的张九龄见百姓翻越险峻山道，决定筹资开凿梅关道。在反对声和重重阻碍中，他亲自带人修路。",
+      "image": "https://www.gdjct.gd.gov.cn/video/0/1/1730/211073_6e509d.png",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "广东广播电视台",
+        "广东广视传媒有限公司"
+      ],
+      "totalEpisodes": 5,
+      "releaseStatus": "已完结",
+      "source": "https://www.gdjct.gd.gov.cn/ttxw/content/post_211073.html",
+      "credit": "广东广播电视台、广东广视传媒有限公司",
+      "license": "制作方官方公开发布",
+      "changes": "片库保留原发布页，播放时访问发行方公开播放器使用的正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "天堑",
+          "durationLabel": "10:14",
+          "source": "https://www.gdjct.gd.gov.cn/ttxw/content/post_211073.html",
+          "sources": [
+            "https://gdvideo.southcn.com/504d6d4c9bba71f182215107e0c90102/f702135a81c44f6b8e3074f6061563cf-b170c33d483d99b1e57aa7ba25232069-sd.mp4",
+            "https://gdvideo.southcn.com/8081224b9f6271f1b38c4531859c0102/1f2d764b6f8a4baab2e82c36c28bbf11-b170c33d483d99b1e57aa7ba25232069-sd.mp4",
+            "https://gdvideo.southcn.com/504d6d4c9bba71f182215107e0c90102/f702135a81c44f6b8e3074f6061563cf-5b93eb3782e7a8eb36c43dea163a268e-ld.mp4",
+            "https://gdvideo.southcn.com/8081224b9f6271f1b38c4531859c0102/1f2d764b6f8a4baab2e82c36c28bbf11-5b93eb3782e7a8eb36c43dea163a268e-ld.mp4",
+            "https://gdvideo.southcn.com/30716b61a05d71f1a86e5017e1e90102/f0b10c76290f46ef81ccae6f6e9f95a9-50e48822922964f060ce0d1bb5d5dff0-sd.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/504d6d4c9bba71f182215107e0c90102/f702135a81c44f6b8e3074f6061563cf-b170c33d483d99b1e57aa7ba25232069-sd.mp4": 720,
+            "https://gdvideo.southcn.com/504d6d4c9bba71f182215107e0c90102/f702135a81c44f6b8e3074f6061563cf-5b93eb3782e7a8eb36c43dea163a268e-ld.mp4": 406,
+            "https://gdvideo.southcn.com/30716b61a05d71f1a86e5017e1e90102/f0b10c76290f46ef81ccae6f6e9f95a9-50e48822922964f060ce0d1bb5d5dff0-sd.mp4": 360,
+            "https://gdvideo.southcn.com/8081224b9f6271f1b38c4531859c0102/1f2d764b6f8a4baab2e82c36c28bbf11-b170c33d483d99b1e57aa7ba25232069-sd.mp4": 720,
+            "https://gdvideo.southcn.com/8081224b9f6271f1b38c4531859c0102/1f2d764b6f8a4baab2e82c36c28bbf11-5b93eb3782e7a8eb36c43dea163a268e-ld.mp4": 406
+          }
+        },
+        {
+          "number": 2,
+          "title": "火炼真金",
+          "durationLabel": "9:59",
+          "source": "https://www.gdjct.gd.gov.cn/ttxw/content/post_211073.html",
+          "sources": [
+            "https://gdvideo.southcn.com/70cc86d69ae671f1b3766732b78e0102/921650ee63c5445f8ba6d537fcd4b258-f8a9870edad9450912520afe54abce00-sd.mp4",
+            "https://gdvideo.southcn.com/50da576ea05d71f1866b5420848d0102/52d58fbddff54ed5b6cdc7bda27e7266-2158f1253e38ccdd340547ce782f9a2f-sd.mp4",
+            "https://gdvideo.southcn.com/70cc86d69ae671f1b3766732b78e0102/921650ee63c5445f8ba6d537fcd4b258-801cc15d0fa3170e3fd5f64419871203-ld.mp4",
+            "https://gdvideo.southcn.com/50da576ea05d71f1866b5420848d0102/52d58fbddff54ed5b6cdc7bda27e7266-14b596a1b65983c16c97b73b428b1374-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/70cc86d69ae671f1b3766732b78e0102/921650ee63c5445f8ba6d537fcd4b258-f8a9870edad9450912520afe54abce00-sd.mp4": 720,
+            "https://gdvideo.southcn.com/70cc86d69ae671f1b3766732b78e0102/921650ee63c5445f8ba6d537fcd4b258-801cc15d0fa3170e3fd5f64419871203-ld.mp4": 406,
+            "https://gdvideo.southcn.com/50da576ea05d71f1866b5420848d0102/52d58fbddff54ed5b6cdc7bda27e7266-2158f1253e38ccdd340547ce782f9a2f-sd.mp4": 720,
+            "https://gdvideo.southcn.com/50da576ea05d71f1866b5420848d0102/52d58fbddff54ed5b6cdc7bda27e7266-14b596a1b65983c16c97b73b428b1374-ld.mp4": 406
+          }
+        },
+        {
+          "number": 3,
+          "title": "民心所向",
+          "durationLabel": "10:00",
+          "source": "https://www.gdjct.gd.gov.cn/ttxw/content/post_211073.html",
+          "sources": [
+            "https://gdvideo.southcn.com/f0ea17459d3c71f180214531949c0102/b8c2405bcbd14e7bbb0da20704abec57-5dc1f0360a379971f84e3b7076f34ee9-sd.mp4",
+            "https://gdvideo.southcn.com/f0ea17459d3c71f180214531949c0102/b8c2405bcbd14e7bbb0da20704abec57-602a9c03894836cc47215e1fd602e1e3-ld.mp4",
+            "https://gdvideo.southcn.com/20937284a05d71f1bf975017f1e80102/0c31d7f43e274009915f9b2cf80e6c76-4ca99536ae9f28cf37c7067e35b43f91-sd.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/f0ea17459d3c71f180214531949c0102/b8c2405bcbd14e7bbb0da20704abec57-5dc1f0360a379971f84e3b7076f34ee9-sd.mp4": 720,
+            "https://gdvideo.southcn.com/f0ea17459d3c71f180214531949c0102/b8c2405bcbd14e7bbb0da20704abec57-602a9c03894836cc47215e1fd602e1e3-ld.mp4": 406,
+            "https://gdvideo.southcn.com/20937284a05d71f1bf975017f1e80102/0c31d7f43e274009915f9b2cf80e6c76-4ca99536ae9f28cf37c7067e35b43f91-sd.mp4": 360
+          }
+        },
+        {
+          "number": 4,
+          "title": "决裂暗局",
+          "durationLabel": "10:01",
+          "source": "https://www.gdjct.gd.gov.cn/ttxw/content/post_211073.html",
+          "sources": [
+            "https://gdvideo.southcn.com/c0a309b59c8471f180084531948c0102/9f14098798964752b3dfcc1abd2273d1-94cffced7dbdbfaf26bf8dbb06610f3a-sd.mp4",
+            "https://gdvideo.southcn.com/c0f30b00a66f71f196756732b68f0102/d43e54dd3ecf47ea817054a0f9c3d3d3-4b2dfd891d0987e17b35968f33b394c9-sd.mp4",
+            "https://gdvideo.southcn.com/c0a309b59c8471f180084531948c0102/9f14098798964752b3dfcc1abd2273d1-66755a3b312ccffcd74fb0dd2133d25a-ld.mp4",
+            "https://gdvideo.southcn.com/c0f30b00a66f71f196756732b68f0102/d43e54dd3ecf47ea817054a0f9c3d3d3-2eb6a9bf47874032bfed2d3398e32eee-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/c0a309b59c8471f180084531948c0102/9f14098798964752b3dfcc1abd2273d1-94cffced7dbdbfaf26bf8dbb06610f3a-sd.mp4": 720,
+            "https://gdvideo.southcn.com/c0a309b59c8471f180084531948c0102/9f14098798964752b3dfcc1abd2273d1-66755a3b312ccffcd74fb0dd2133d25a-ld.mp4": 406,
+            "https://gdvideo.southcn.com/c0f30b00a66f71f196756732b68f0102/d43e54dd3ecf47ea817054a0f9c3d3d3-4b2dfd891d0987e17b35968f33b394c9-sd.mp4": 720,
+            "https://gdvideo.southcn.com/c0f30b00a66f71f196756732b68f0102/d43e54dd3ecf47ea817054a0f9c3d3d3-2eb6a9bf47874032bfed2d3398e32eee-ld.mp4": 406
+          }
+        },
+        {
+          "number": 5,
+          "title": "公道人心",
+          "durationLabel": "9:59",
+          "source": "https://www.gdjct.gd.gov.cn/ttxw/content/post_211073.html",
+          "sources": [
+            "https://gdvideo.southcn.com/30d94e6f9d5771f1b35f4531859c0102/33ceb593b9d84a75a980e468e2f8732b-5fff331405463521fb2e96d0888baead-sd.mp4",
+            "https://gdvideo.southcn.com/30d94e6f9d5771f1b35f4531859c0102/33ceb593b9d84a75a980e468e2f8732b-7797ec97c9d53411f47c3ad52ee62900-ld.mp4",
+            "https://gdvideo.southcn.com/50ee9c03a81271f180066633b79f0102/605ec68b7de341f7ab368e1305b88e91-4d064a391d2cdaf18ec1b32fe8f5193b-sd.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/30d94e6f9d5771f1b35f4531859c0102/33ceb593b9d84a75a980e468e2f8732b-5fff331405463521fb2e96d0888baead-sd.mp4": 720,
+            "https://gdvideo.southcn.com/30d94e6f9d5771f1b35f4531859c0102/33ceb593b9d84a75a980e468e2f8732b-7797ec97c9d53411f47c3ad52ee62900-ld.mp4": 406,
+            "https://gdvideo.southcn.com/50ee9c03a81271f180066633b79f0102/605ec68b7de341f7ab368e1305b88e91-4d064a391d2cdaf18ec1b32fe8f5193b-sd.mp4": 406
+          }
+        }
+      ]
+    },
+    {
+      "id": "bao-zheng-in-duanzhou",
+      "title": "包拯在端州",
+      "original": "",
+      "year": "2026",
+      "length": "约 8–12 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "古装",
+        "探案"
+      ],
+      "description": "包拯赴任端州，开井救民却意外牵出案情。他循着线索追查，最终把地方豪强的罪证带到公堂。",
+      "image": "https://www.gdjct.gd.gov.cn/img/0/88/88007/211568.png",
+      "hero": "https://www.gdjct.gd.gov.cn/video/0/1/1765/211674_810ff0.png",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "广东人民出版社有限公司"
+      ],
+      "totalEpisodes": 6,
+      "releaseStatus": "已完结",
+      "source": "https://www.gdjct.gd.gov.cn/lrny/lht/content/post_211674.html",
+      "credit": "广东省纪委监委、广东省委宣传部联合策划指导 · 广东人民出版社有限公司承制",
+      "license": "制作方官方公开发布",
+      "changes": "片库保留原发布页，播放时访问发行方公开播放器使用的正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "赴任惊波",
+          "durationLabel": "9:47",
+          "source": "https://www.gdjct.gd.gov.cn/lrny/lht/content/post_211674.html",
+          "sources": [
+            "https://gdvideo.southcn.com/f0844203cd4371f180424531948c0102/676bb602988e472e9762b9309d30446b-2c8f4692602f3dbad13c3ca36215c75b-sd.mp4",
+            "https://gdvideo.southcn.com/f0844203cd4371f180424531948c0102/676bb602988e472e9762b9309d30446b-bfd35c33b9113c76032a048f927487da-ld.mp4",
+            "https://gdvideo.southcn.com/20affca8d66171f1a09fe6e7e57b0102/7fcdf74aacea4962aa878cbeeca078a1-075320291580a3bb14bc905b927861d7-sd.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/f0844203cd4371f180424531948c0102/676bb602988e472e9762b9309d30446b-2c8f4692602f3dbad13c3ca36215c75b-sd.mp4": 720,
+            "https://gdvideo.southcn.com/f0844203cd4371f180424531948c0102/676bb602988e472e9762b9309d30446b-bfd35c33b9113c76032a048f927487da-ld.mp4": 406,
+            "https://gdvideo.southcn.com/20affca8d66171f1a09fe6e7e57b0102/7fcdf74aacea4962aa878cbeeca078a1-075320291580a3bb14bc905b927861d7-sd.mp4": 406
+          }
+        },
+        {
+          "number": 2,
+          "title": "开井破局",
+          "durationLabel": "11:26",
+          "source": "https://www.gdjct.gd.gov.cn/lrny/lht/content/post_211674.html",
+          "sources": [
+            "https://gdvideo.southcn.com/10d5e373cd4371f1803c4531959d0102/3267d49895b042b1aca455f87b12d10d-c0c6cf0807e2d8e98a442e8417ac2e31-sd.mp4",
+            "https://gdvideo.southcn.com/10d5e373cd4371f1803c4531959d0102/3267d49895b042b1aca455f87b12d10d-5fb2b6b3ce4da071023b6fc0f03830d3-ld.mp4",
+            "https://gdvideo.southcn.com/805cbcb8d66171f1a8b4e7f6d4480102/77bdbb9129a04c4c947647240924fd82-0aa829e5c43b518626bec2e9c432b614-sd.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/10d5e373cd4371f1803c4531959d0102/3267d49895b042b1aca455f87b12d10d-c0c6cf0807e2d8e98a442e8417ac2e31-sd.mp4": 720,
+            "https://gdvideo.southcn.com/10d5e373cd4371f1803c4531959d0102/3267d49895b042b1aca455f87b12d10d-5fb2b6b3ce4da071023b6fc0f03830d3-ld.mp4": 406,
+            "https://gdvideo.southcn.com/805cbcb8d66171f1a8b4e7f6d4480102/77bdbb9129a04c4c947647240924fd82-0aa829e5c43b518626bec2e9c432b614-sd.mp4": 406
+          }
+        },
+        {
+          "number": 3,
+          "title": "深坑追证",
+          "durationLabel": "11:28",
+          "source": "https://www.gdjct.gd.gov.cn/lrny/lht/content/post_211674.html",
+          "sources": [
+            "https://gdvideo.southcn.com/e06cd8eecd4371f1aa9d6723a78f0102/8f1fd2ac805748b8bc58b37d86f57716-6f4650d95f777e163c1af4aa152492ea-sd.mp4",
+            "https://gdvideo.southcn.com/e06cd8eecd4371f1aa9d6723a78f0102/8f1fd2ac805748b8bc58b37d86f57716-edaff1055c821ef3ba04cb19a7a76b00-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/e06cd8eecd4371f1aa9d6723a78f0102/8f1fd2ac805748b8bc58b37d86f57716-6f4650d95f777e163c1af4aa152492ea-sd.mp4": 720,
+            "https://gdvideo.southcn.com/e06cd8eecd4371f1aa9d6723a78f0102/8f1fd2ac805748b8bc58b37d86f57716-edaff1055c821ef3ba04cb19a7a76b00-ld.mp4": 406
+          }
+        },
+        {
+          "number": 4,
+          "title": "缉凶救灾",
+          "durationLabel": "10:07",
+          "source": "https://www.gdjct.gd.gov.cn/lrny/lht/content/post_211674.html",
+          "sources": [
+            "https://gdvideo.southcn.com/60d37781cd4471f1bfef6632b68f0102/4ecb0ee1bb3c44dc81dc67db90d11545-282b371048b2a339aa35391809f45b9a-sd.mp4",
+            "https://gdvideo.southcn.com/60d37781cd4471f1bfef6632b68f0102/4ecb0ee1bb3c44dc81dc67db90d11545-fe49db52133c941634c5353c07b03cec-ld.mp4",
+            "https://gdvideo.southcn.com/f07fb1f8d66171f19443f7e7e5580102/2610a080d6b848658ccba79bd7530d9e-5bbe8e0b1044e1646301faba4e19caea-sd.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/60d37781cd4471f1bfef6632b68f0102/4ecb0ee1bb3c44dc81dc67db90d11545-282b371048b2a339aa35391809f45b9a-sd.mp4": 720,
+            "https://gdvideo.southcn.com/60d37781cd4471f1bfef6632b68f0102/4ecb0ee1bb3c44dc81dc67db90d11545-fe49db52133c941634c5353c07b03cec-ld.mp4": 406,
+            "https://gdvideo.southcn.com/f07fb1f8d66171f19443f7e7e5580102/2610a080d6b848658ccba79bd7530d9e-5bbe8e0b1044e1646301faba4e19caea-sd.mp4": 406
+          }
+        },
+        {
+          "number": 5,
+          "title": "法剑惩奸",
+          "durationLabel": "8:04",
+          "source": "https://www.gdjct.gd.gov.cn/lrny/lht/content/post_211674.html",
+          "sources": [
+            "https://gdvideo.southcn.com/d0fc8cfacd4471f1803c4531959d0102/1cfbfb941916401e8fdf5af0a2f02157-94bab14e790a1f05fb9820b20c5ccfa8-sd.mp4",
+            "https://gdvideo.southcn.com/d0fc8cfacd4471f1803c4531959d0102/1cfbfb941916401e8fdf5af0a2f02157-e6cc1043a959175fe6e8da6cd381fb13-ld.mp4",
+            "https://gdvideo.southcn.com/3065a20ad66271f18184f6f6f56a0102/c8f72122ab694ddab73d1bfb4bced166-7b14fbbb21a5457e334d07ba287ea744-sd.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/d0fc8cfacd4471f1803c4531959d0102/1cfbfb941916401e8fdf5af0a2f02157-94bab14e790a1f05fb9820b20c5ccfa8-sd.mp4": 720,
+            "https://gdvideo.southcn.com/d0fc8cfacd4471f1803c4531959d0102/1cfbfb941916401e8fdf5af0a2f02157-e6cc1043a959175fe6e8da6cd381fb13-ld.mp4": 406,
+            "https://gdvideo.southcn.com/3065a20ad66271f18184f6f6f56a0102/c8f72122ab694ddab73d1bfb4bced166-7b14fbbb21a5457e334d07ba287ea744-sd.mp4": 406
+          }
+        },
+        {
+          "number": 6,
+          "title": "沉砚明志",
+          "durationLabel": "10:14",
+          "source": "https://www.gdjct.gd.gov.cn/lrny/lht/content/post_211674.html",
+          "sources": [
+            "https://gdvideo.southcn.com/70a5d072cd4571f185a2e6e6d56a0102/5a007a447f19445fb51ee0aa38b00d4e-975cb37b851ceb624502020029e49092-sd.mp4",
+            "https://gdvideo.southcn.com/70a5d072cd4571f185a2e6e6d56a0102/5a007a447f19445fb51ee0aa38b00d4e-bc6c8353d20d2807f7593a9dc9a3747a-ld.mp4",
+            "https://gdvideo.southcn.com/d032d019d66271f1804ee6e6d56a0102/46f9b7d2fa5e4e5098a9278624035d3f-6d92f14295f35373a5369b708c45bc3e-sd.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/70a5d072cd4571f185a2e6e6d56a0102/5a007a447f19445fb51ee0aa38b00d4e-975cb37b851ceb624502020029e49092-sd.mp4": 720,
+            "https://gdvideo.southcn.com/70a5d072cd4571f185a2e6e6d56a0102/5a007a447f19445fb51ee0aa38b00d4e-bc6c8353d20d2807f7593a9dc9a3747a-ld.mp4": 406,
+            "https://gdvideo.southcn.com/d032d019d66271f1804ee6e6d56a0102/46f9b7d2fa5e4e5098a9278624035d3f-6d92f14295f35373a5369b708c45bc3e-sd.mp4": 406
+          }
+        }
+      ]
+    },
+    {
+      "id": "langtou-ancestor",
+      "title": "我那帅气的老祖宗",
+      "original": "",
+      "year": "2025",
+      "length": "约 3–7 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "奇幻",
+        "家庭"
+      ],
+      "description": "一对新人为婚礼办在祖祠还是酒店争执不下。一场发生在塱头古村的奇遇，让他们遇见六百多年前的先祖，重新理解家族传下来的承诺。",
+      "image": "https://www.gzjjjc.gov.cn/video/0/1/1329/262182_ab4ef5.png",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "花都区纪委监委"
+      ],
+      "totalEpisodes": 5,
+      "releaseStatus": "已完结",
+      "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262182.html",
+      "credit": "花都区纪委监委",
+      "license": "制作方官方公开发布",
+      "changes": "片库保留原发布页，播放时访问发行方公开播放器使用的正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "正片",
+          "durationLabel": "6:42",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262182.html",
+          "sources": [
+            "https://gdvideo.southcn.com/b0e2f49d7e5f71f0bfb35420848d0102/9b5795860fca4ecdb16a951203d26a49-e3a9bf25a9316fc93ef22a975e1e3660-sd.mp4",
+            "https://gdvideo.southcn.com/b0e2f49d7e5f71f0bfb35420848d0102/9b5795860fca4ecdb16a951203d26a49-35b576ea77739de1e0e2898035150e0a-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/b0e2f49d7e5f71f0bfb35420848d0102/9b5795860fca4ecdb16a951203d26a49-e3a9bf25a9316fc93ef22a975e1e3660-sd.mp4": 720,
+            "https://gdvideo.southcn.com/b0e2f49d7e5f71f0bfb35420848d0102/9b5795860fca4ecdb16a951203d26a49-35b576ea77739de1e0e2898035150e0a-ld.mp4": 406
+          }
+        },
+        {
+          "number": 2,
+          "title": "正片",
+          "durationLabel": "4:51",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262183.html",
+          "sources": [
+            "https://gdvideo.southcn.com/e061c12a7be171f083b55107e0c90102/fdb81cf3153f45d68bb60d01c3d2501d-f96607617175b087609c11491b25f1a2-sd.mp4",
+            "https://gdvideo.southcn.com/e061c12a7be171f083b55107e0c90102/fdb81cf3153f45d68bb60d01c3d2501d-94f37d39a9025217543d9039378763b7-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/e061c12a7be171f083b55107e0c90102/fdb81cf3153f45d68bb60d01c3d2501d-f96607617175b087609c11491b25f1a2-sd.mp4": 720,
+            "https://gdvideo.southcn.com/e061c12a7be171f083b55107e0c90102/fdb81cf3153f45d68bb60d01c3d2501d-94f37d39a9025217543d9039378763b7-ld.mp4": 406
+          }
+        },
+        {
+          "number": 3,
+          "title": "正片",
+          "durationLabel": "3:21",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262184.html",
+          "sources": [
+            "https://gdvideo.southcn.com/205244907be171f0914d4531959c0102/6d0b398883af428c875ea820c4bbcca5-8d66d23876bc2b44167d527245310073-sd.mp4",
+            "https://gdvideo.southcn.com/205244907be171f0914d4531959c0102/6d0b398883af428c875ea820c4bbcca5-4564353a5f06b48484ac45cf13617fe1-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/205244907be171f0914d4531959c0102/6d0b398883af428c875ea820c4bbcca5-8d66d23876bc2b44167d527245310073-sd.mp4": 720,
+            "https://gdvideo.southcn.com/205244907be171f0914d4531959c0102/6d0b398883af428c875ea820c4bbcca5-4564353a5f06b48484ac45cf13617fe1-ld.mp4": 406
+          }
+        },
+        {
+          "number": 4,
+          "title": "正片",
+          "durationLabel": "3:12",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262185.html",
+          "sources": [
+            "https://gdvideo.southcn.com/b0063c717be271f0bfc34531948c0102/e54e35b81f774dbc8c08e6a6ee72d4b1-4cdc412a79a50e77b240e95cb8917500-sd.mp4",
+            "https://gdvideo.southcn.com/b0063c717be271f0bfc34531948c0102/e54e35b81f774dbc8c08e6a6ee72d4b1-2d5b57e7f7614d1084fa0e186b2b9ace-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/b0063c717be271f0bfc34531948c0102/e54e35b81f774dbc8c08e6a6ee72d4b1-4cdc412a79a50e77b240e95cb8917500-sd.mp4": 720,
+            "https://gdvideo.southcn.com/b0063c717be271f0bfc34531948c0102/e54e35b81f774dbc8c08e6a6ee72d4b1-2d5b57e7f7614d1084fa0e186b2b9ace-ld.mp4": 406
+          }
+        },
+        {
+          "number": 5,
+          "title": "正片",
+          "durationLabel": "4:44",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262186.html",
+          "sources": [
+            "https://gdvideo.southcn.com/c0ce03357be371f08fe06633b79f0102/ad478e2bd720454a911a81453c911688-1406dca2af94e6c8d84c2e28e1e10484-sd.mp4",
+            "https://gdvideo.southcn.com/c0ce03357be371f08fe06633b79f0102/ad478e2bd720454a911a81453c911688-1ed84b560b05ae32aaa5fbb15066c8b0-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/c0ce03357be371f08fe06633b79f0102/ad478e2bd720454a911a81453c911688-1406dca2af94e6c8d84c2e28e1e10484-sd.mp4": 720,
+            "https://gdvideo.southcn.com/c0ce03357be371f08fe06633b79f0102/ad478e2bd720454a911a81453c911688-1ed84b560b05ae32aaa5fbb15066c8b0-ld.mp4": 406
+          }
+        }
+      ]
+    },
+    {
+      "id": "answer-across-2000-years",
+      "title": "穿越2000年的答案",
+      "original": "",
+      "year": "2025",
+      "length": "约 6–8 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "奇幻",
+        "剧情"
+      ],
+      "description": "南越王赵佗与两千年后的飞行汽车相遇。在古今交错的故事里，今日的制造团队寻找打破惯例、继续试飞的答案。",
+      "image": "https://www.gzjjjc.gov.cn/video/0/1/1314/262188_f2f156.jpeg",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "广汽集团纪委"
+      ],
+      "totalEpisodes": 3,
+      "releaseStatus": "已完结",
+      "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262188.html",
+      "credit": "广汽集团纪委",
+      "license": "制作方官方公开发布",
+      "changes": "片库保留原发布页，播放时访问发行方公开播放器使用的正片地址。",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "走老路陷迷局",
+          "durationLabel": "6:28",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262188.html",
+          "sources": [
+            "https://gdvideo.southcn.com/5078b6417be571f0beb05017f1e90102/d175d107962849c296d697534c6f0946-d86d2e738acf9a2496d5fcd14bc058a8-sd.mp4",
+            "https://gdvideo.southcn.com/5078b6417be571f0beb05017f1e90102/d175d107962849c296d697534c6f0946-ad6edea80f031d3a2bf245742f1fda24-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/5078b6417be571f0beb05017f1e90102/d175d107962849c296d697534c6f0946-d86d2e738acf9a2496d5fcd14bc058a8-sd.mp4": 720,
+            "https://gdvideo.southcn.com/5078b6417be571f0beb05017f1e90102/d175d107962849c296d697534c6f0946-ad6edea80f031d3a2bf245742f1fda24-ld.mp4": 406
+          }
+        },
+        {
+          "number": 2,
+          "title": "趟新路破困局",
+          "durationLabel": "7:46",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262189.html",
+          "sources": [
+            "https://gdvideo.southcn.com/b0e446e97be571f0bff06732b68f0102/74076468a7404d0c8934076dabc3513e-86572d372f37b40fcd888724a541c2d2-sd.mp4",
+            "https://gdvideo.southcn.com/b0e446e97be571f0bff06732b68f0102/74076468a7404d0c8934076dabc3513e-886ff7e87de7499a996f4e226e25aa2f-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/b0e446e97be571f0bff06732b68f0102/74076468a7404d0c8934076dabc3513e-86572d372f37b40fcd888724a541c2d2-sd.mp4": 720,
+            "https://gdvideo.southcn.com/b0e446e97be571f0bff06732b68f0102/74076468a7404d0c8934076dabc3513e-886ff7e87de7499a996f4e226e25aa2f-ld.mp4": 406
+          }
+        },
+        {
+          "number": 3,
+          "title": "守正路开新局",
+          "durationLabel": "5:54",
+          "source": "https://www.gzjjjc.gov.cn/ljgzw/ztzl/ljwhwdj/content/post_262190.html",
+          "sources": [
+            "https://gdvideo.southcn.com/40fccda57be671f0a39f5017e1e90102/d33d02d352404c4483950cd286432efa-059ac3745e73f50d52dd022d45c566fa-sd.mp4",
+            "https://gdvideo.southcn.com/40fccda57be671f0a39f5017e1e90102/d33d02d352404c4483950cd286432efa-df7caabb6d1c470be5c1fd7f5c08ce6a-ld.mp4"
+          ],
+          "sourceQualities": {
+            "https://gdvideo.southcn.com/40fccda57be671f0a39f5017e1e90102/d33d02d352404c4483950cd286432efa-059ac3745e73f50d52dd022d45c566fa-sd.mp4": 720,
+            "https://gdvideo.southcn.com/40fccda57be671f0a39f5017e1e90102/d33d02d352404c4483950cd286432efa-df7caabb6d1c470be5c1fd7f5c08ce6a-ld.mp4": 406
+          }
+        }
+      ]
+    },
+    {
+      "image": "https://i1.hdslb.com/bfs/archive/c20fc9487bfca22689da7096cc6c0a8d9b5203a4.jpg",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "煎饼果仔呀",
+        "夏天妹妹"
+      ],
+      "credit": "煎饼果仔呀、夏天妹妹 · 主创及主演",
+      "license": "创作者官方发布",
+      "changes": "通过发行平台的官方站外播放器播放创作者发布的正片。",
+      "id": "escape-british-museum",
+      "title": "逃出大英博物馆",
+      "original": "正片",
+      "year": "2023",
+      "length": "2–10 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "奇幻",
+        "剧情"
+      ],
+      "description": "一只从大英博物馆逃出的中华玉壶幻化成人。她在伦敦遇到记者张永安，请他帮她找到回家的路。",
+      "totalEpisodes": 3,
+      "releaseStatus": "已完结",
+      "source": "https://www.bilibili.com/video/BV1qm4y1T7qp/",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "逃出博物馆",
+          "durationLabel": "2:44",
+          "source": "https://www.bilibili.com/video/BV1qm4y1T7qp/",
+          "sources": [],
+          "officialBilibiliID": "BV1qm4y1T7qp"
+        },
+        {
+          "number": 2,
+          "title": "回家的请求",
+          "durationLabel": "4:40",
+          "source": "https://www.bilibili.com/video/BV1Yh4y1N7Ln/",
+          "sources": [],
+          "officialBilibiliID": "BV1Yh4y1N7Ln"
+        },
+        {
+          "number": 3,
+          "title": "家书",
+          "durationLabel": "9:40",
+          "source": "https://www.bilibili.com/video/BV1Cp4y177tM/",
+          "sources": [],
+          "officialBilibiliID": "BV1Cp4y177tM"
+        }
+      ]
+    },
+    {
+      "id": "new-year-beast-dragon",
+      "title": "小年兽与捉妖师",
+      "original": "龙年篇",
+      "year": "2024",
+      "length": "6–15 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "古装",
+        "奇幻",
+        "喜剧"
+      ],
+      "description": "年小宝和渡季回到千年前，想为年兽一族澄清流传已久的误会，却发现传说背后藏着一段温暖的往事。",
+      "image": "https://i2.hdslb.com/bfs/archive/0913f9e20d6c78e1c4f95210e875c1a42eca8701.jpg",
+      "source": "https://www.bilibili.com/video/BV1C4421c7PY/",
+      "credit": "夏天妹妹、煎饼果仔呀 · 主创及主演",
+      "license": "创作者官方发布",
+      "changes": "通过发行平台的官方站外播放器播放创作者发布的正片。",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "夏天妹妹",
+        "煎饼果仔呀"
+      ],
+      "totalEpisodes": 5,
+      "releaseStatus": "已完结",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "缘始",
+          "durationLabel": "6:52",
+          "source": "https://www.bilibili.com/video/BV1C4421c7PY/",
+          "sources": [],
+          "officialBilibiliID": "BV1C4421c7PY"
+        },
+        {
+          "number": 2,
+          "title": "帮助年阿宝",
+          "durationLabel": "6:44",
+          "source": "https://www.bilibili.com/video/BV12v421172y/",
+          "sources": [],
+          "officialBilibiliID": "BV12v421172y"
+        },
+        {
+          "number": 3,
+          "title": "山水迢迢",
+          "durationLabel": "6:01",
+          "source": "https://www.bilibili.com/video/BV1K7421N77N/",
+          "sources": [],
+          "officialBilibiliID": "BV1K7421N77N"
+        },
+        {
+          "number": 4,
+          "title": "缘",
+          "durationLabel": "6:22",
+          "source": "https://www.bilibili.com/video/BV1YA4m137Su/",
+          "sources": [],
+          "officialBilibiliID": "BV1YA4m137Su"
+        },
+        {
+          "number": 5,
+          "title": "团圆",
+          "durationLabel": "14:30",
+          "source": "https://www.bilibili.com/video/BV1KA4m137nV/",
+          "sources": [],
+          "officialBilibiliID": "BV1KA4m137nV"
+        }
+      ]
+    },
+    {
+      "image": "https://i2.hdslb.com/bfs/archive/60cdad859224a8ee1fa24fc6fc6b3056ae509cd9.jpg",
+      "region": "中国大陆",
+      "languages": [
+        "普通话"
+      ],
+      "creators": [
+        "煎饼果仔呀",
+        "夏天妹妹"
+      ],
+      "credit": "煎饼果仔呀、夏天妹妹 · 主创及主演",
+      "license": "创作者官方发布",
+      "changes": "通过发行平台的官方站外播放器播放创作者发布的正片。",
+      "id": "enemy-season-1",
+      "title": "ENEMY 第一季",
+      "original": "ENEMY",
+      "year": "2025–2026",
+      "length": "约 2–13 分钟/集",
+      "genres": [
+        "国产短剧",
+        "真人",
+        "悬疑",
+        "奇幻"
+      ],
+      "description": "两个在现实中互不相让的死对头被卷进一场无尽的闯关游戏。他们被迫联手，逐渐揭开终极对手的来历。",
+      "totalEpisodes": 8,
+      "releaseStatus": "已完结",
+      "source": "https://www.bilibili.com/video/BV1Mo98BNEq7/",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "宿敌组队",
+          "durationLabel": "1:45",
+          "source": "https://www.bilibili.com/video/BV1RE2LBEEsV/",
+          "sources": [],
+          "officialBilibiliID": "BV1RE2LBEEsV"
+        },
+        {
+          "number": 2,
+          "title": "进入副本",
+          "durationLabel": "4:32",
+          "source": "https://www.bilibili.com/video/BV1ocoEBQEvr/",
+          "sources": [],
+          "officialBilibiliID": "BV1ocoEBQEvr"
+        },
+        {
+          "number": 3,
+          "title": "一阶段",
+          "durationLabel": "3:52",
+          "source": "https://www.bilibili.com/video/BV1UAo9BuEZs/",
+          "sources": [],
+          "officialBilibiliID": "BV1UAo9BuEZs"
+        },
+        {
+          "number": 4,
+          "title": "四人混战",
+          "durationLabel": "1:51",
+          "source": "https://www.bilibili.com/video/BV1Rc9zBeEpe/",
+          "sources": [],
+          "officialBilibiliID": "BV1Rc9zBeEpe"
+        },
+        {
+          "number": 5,
+          "title": "如果我没骂你",
+          "durationLabel": "2:39",
+          "source": "https://www.bilibili.com/video/BV1tA9yBqEPh/",
+          "sources": [],
+          "officialBilibiliID": "BV1tA9yBqEPh"
+        },
+        {
+          "number": 6,
+          "title": "民国篇",
+          "durationLabel": "13:16",
+          "source": "https://www.bilibili.com/video/BV1Mo98BNEq7/",
+          "sources": [],
+          "officialBilibiliID": "BV1Mo98BNEq7"
+        },
+        {
+          "number": 7,
+          "title": "告别队友",
+          "durationLabel": "4:23",
+          "source": "https://www.bilibili.com/video/BV1LURKBjEVm/",
+          "sources": [],
+          "officialBilibiliID": "BV1LURKBjEVm"
+        },
+        {
+          "number": 8,
+          "title": "第一季大结局",
+          "durationLabel": "4:57",
+          "source": "https://www.bilibili.com/video/BV1HgR5B5EuQ/",
+          "sources": [],
+          "officialBilibiliID": "BV1HgR5B5EuQ"
+        }
+      ]
+    },
+    {
+      "id": "hutong-meow",
+      "title": "胡同猫",
+      "original": "Hutong Meow",
+      "year": "2015",
+      "length": "3 分钟",
+      "genres": [
+        "动画",
+        "剧情"
+      ],
+      "description": "一只流浪猫在老北京的胡同里四处探索。定格动画记录了它在这座城市里的普通一天。",
+      "image": "assets/hutong-meow.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Hutong_Meow.webm",
+      "credit": "Kaide Wang · 导演及动画 · Hutong Meow",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "changes": "正片转码为 MP4。封面取自原片画面。",
+      "region": "中国大陆",
+      "creators": [
+        "Kaide Wang"
+      ],
+      "episodes": [
+        {
+          "title": "胡同猫",
+          "durationLabel": "3:04",
+          "sources": [],
+          "bundledVideo": "hutong-meow.mp4"
+        }
+      ]
+    },
+    {
+      "id": "steel",
+      "title": "钢铁之泪",
+      "original": "Tears of Steel",
+      "year": "2012",
+      "length": "12 分钟",
+      "genres": [
+        "科幻",
+        "真人"
+      ],
+      "description": "未来的阿姆斯特丹被机器人占领。一支小队决定重演一场旧日的告别，试图扭转这座城市的命运。",
+      "image": "assets/steel.webp",
+      "hero": "assets/steel-hero.webp",
+      "position": "67% 48%",
+      "source": "https://mango.blender.org/about/",
+      "repository": "https://github.com/andreasbotsikas/DemoVideos",
+      "credit": "© Blender Foundation | mango.blender.org · 导演 Ian Hubert",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "changes": "封面为原片画面裁切。简体中文字幕来自 Blender，已转换为 WebVTT。",
+      "region": "荷兰",
+      "languages": [
+        "英语"
+      ],
+      "creators": [
+        "Ian Hubert"
+      ],
+      "episodes": [
+        {
+          "title": "钢铁之泪",
+          "durationLabel": "12:14",
+          "sources": [
+            "https://video.blender.org/object-storage/web_videos/8533ea43-4271-4a57-9694-e9d0b35e1aa1-720.mp4",
+            "https://raw.githubusercontent.com/andreasbotsikas/DemoVideos/master/tears_of_steel.mp4",
+            "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
+          ],
+          "subtitles": "assets/steel.zh.vtt",
+          "sourceQualities": {
+            "https://video.blender.org/object-storage/web_videos/8533ea43-4271-4a57-9694-e9d0b35e1aa1-720.mp4": 720,
+            "https://raw.githubusercontent.com/andreasbotsikas/DemoVideos/master/tears_of_steel.mp4": 292,
+            "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov": 534
+          }
+        }
+      ]
+    },
+    {
+      "id": "sintel",
+      "title": "辛特尔",
+      "original": "Sintel",
+      "year": "2010",
+      "length": "15 分钟",
+      "genres": [
+        "奇幻",
+        "动画"
+      ],
+      "description": "少女辛特尔救下一只受伤的小龙。小龙被掳走后，她踏上旅程，寻找曾经的伙伴。",
+      "image": "assets/sintel.webp",
+      "source": "https://durian.blender.org/about/",
+      "repository": "https://github.com/andreasbotsikas/DemoVideos",
+      "credit": "© Blender Foundation | durian.blender.org · 导演 Colin Levy",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "changes": "封面为原片画面裁切。简体中文字幕来自 Blender，已转换为 WebVTT。",
+      "region": "荷兰",
+      "languages": [
+        "英语"
+      ],
+      "creators": [
+        "Colin Levy"
+      ],
+      "episodes": [
+        {
+          "title": "辛特尔",
+          "durationLabel": "14:48",
+          "sources": [
+            "https://video.blender.org/object-storage/web_videos/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-720.mp4",
+            "https://raw.githubusercontent.com/andreasbotsikas/DemoVideos/master/sintel.mp4"
+          ],
+          "subtitles": "assets/sintel.zh.vtt",
+          "sourceQualities": {
+            "https://video.blender.org/object-storage/web_videos/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-720.mp4": 720,
+            "https://raw.githubusercontent.com/andreasbotsikas/DemoVideos/master/sintel.mp4": 292
+          }
+        }
+      ]
+    },
+    {
+      "id": "labor",
+      "title": "劳工之爱情",
+      "original": "Laborer’s Love",
+      "year": "1922",
+      "length": "22 分钟",
+      "genres": [
+        "爱情",
+        "喜剧",
+        "真人",
+        "华语"
+      ],
+      "description": "上海水果摊贩郑木匠爱上了祝医生的女儿。为了争取医生同意，他想出一招，帮医馆招来更多病人。",
+      "image": "assets/labor.webp",
+      "source": "https://www.cfa.org.cn/cfa/fy/dyjz26/gnjz/2025022409032510237/index.html",
+      "credit": "明星影片公司 · 导演 张石川 · 编剧 郑正秋",
+      "license": "公有领域（1922 年原版）",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85_(1922).webm",
+      "changes": "封面为原片画面裁切。保留原版中英字幕卡。",
+      "region": "中国大陆",
+      "languages": [
+        "默片 · 中英字幕卡"
+      ],
+      "creators": [
+        "张石川",
+        "郑正秋"
+      ],
+      "episodes": [
+        {
+          "title": "劳工之爱情",
+          "durationLabel": "22:09",
+          "sources": [
+            "https://archive.org/download/silent-zhi-guo-yuan-aka-romance-of-a-fruit-peddler/Zhi%20guo%20yuan%20AKA%20Romance%20of%20a%20Fruit%20Peddler.mp4",
+            "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85_%281922%29.webm/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85_%281922%29.webm.360p.mpeg4.mov"
+          ],
+          "sourceQualities": {
+            "https://archive.org/download/silent-zhi-guo-yuan-aka-romance-of-a-fruit-peddler/Zhi%20guo%20yuan%20AKA%20Romance%20of%20a%20Fruit%20Peddler.mp4": 288,
+            "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85_%281922%29.webm/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85_%281922%29.webm.360p.mpeg4.mov": 288
+          }
+        }
+      ]
+    },
+    {
+      "id": "charge",
+      "title": "电量告急",
+      "original": "Charge",
+      "year": "2022",
+      "length": "4 分钟",
+      "genres": [
+        "科幻",
+        "动画"
+      ],
+      "description": "能源短缺的世界里，一位穷困的老人潜入电池工厂，却被守卫机器人堵住了退路。",
+      "image": "assets/charge.webp",
+      "position": "58% 50%",
+      "source": "https://studio.blender.org/films/charge/",
+      "repository": "https://github.com/NoMercy-Entertainment/nomercy-media",
+      "credit": "(CC) Blender Foundation | studio.blender.org",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Charge_-_Blender_Open_Movie-full_movie.webm",
+      "changes": "封面为原片画面裁切。",
+      "region": "荷兰",
+      "creators": [
+        "Blender Studio"
+      ],
+      "episodes": [
+        {
+          "title": "电量告急",
+          "durationLabel": "4:23",
+          "sources": [
+            "https://video.blender.org/object-storage/web_videos/70528f27-fd51-479f-8146-abb5a7a81fff-720.mp4",
+            "https://archive.org/download/charge-blender-open-movie-1608p/Charge%20-%20Blender%20Open%20Movie%201608p.mp4"
+          ],
+          "sourceQualities": {
+            "https://video.blender.org/object-storage/web_videos/70528f27-fd51-479f-8146-abb5a7a81fff-720.mp4": 720,
+            "https://archive.org/download/charge-blender-open-movie-1608p/Charge%20-%20Blender%20Open%20Movie%201608p.mp4": 1608
+          }
+        }
+      ]
+    },
+    {
+      "id": "spring",
+      "title": "春之声",
+      "original": "Spring",
+      "year": "2019",
+      "length": "8 分钟",
+      "genres": [
+        "奇幻",
+        "动画"
+      ],
+      "description": "冬天迟迟不肯结束。一位牧羊女孩和她的狗走进山谷，唤醒沉睡的巨兽，带回春天。",
+      "image": "assets/spring.webp",
+      "source": "https://studio.blender.org/projects/spring/pages/about/",
+      "repository": "https://github.com/NoMercy-Entertainment/nomercy-media",
+      "credit": "© Blender Foundation | cloud.blender.org/spring · 导演 Andy Goralczyk",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "封面为原片画面裁切。",
+      "region": "荷兰",
+      "creators": [
+        "Andy Goralczyk"
+      ],
+      "episodes": [
+        {
+          "title": "春之声",
+          "durationLabel": "7:44",
+          "sources": [
+            "https://video.blender.org/object-storage/web_videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-720.mp4",
+            "https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4",
+            "https://video.blender.org/object-storage/web_videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-480.mp4"
+          ],
+          "sourceQualities": {
+            "https://video.blender.org/object-storage/web_videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-720.mp4": 720,
+            "https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4": 480,
+            "https://video.blender.org/object-storage/web_videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-480.mp4": 480
+          }
+        }
+      ]
+    },
+    {
+      "id": "caminandes",
+      "title": "羊驼历险记",
+      "original": "Caminandes",
+      "year": "2013–2016",
+      "length": "3 集",
+      "genres": [
+        "喜剧",
+        "动画",
+        "迷你系列"
+      ],
+      "description": "巴塔哥尼亚的小羊驼科罗，总能让过马路、翻围栏和找浆果这些小事变成大冒险。",
+      "image": "assets/caminandes.webp",
+      "source": "https://studio.blender.org/projects/caminandes-2/",
+      "repository": "https://github.com/NoMercy-Entertainment/nomercy-media",
+      "credit": "Pablo Vázquez、Beorn Leonard、Francesco Siddi、Blender Institute / Blender Foundation",
+      "license": "各集授权见下方",
+      "changes": "封面采用第三集《羊驼与企鹅》的原片画面裁切。",
+      "region": "荷兰",
+      "creators": [
+        "Pablo Vázquez",
+        "Beorn Leonard",
+        "Francesco Siddi"
+      ],
+      "totalEpisodes": 3,
+      "releaseStatus": "已完结",
+      "episodes": [
+        {
+          "title": "过马路",
+          "durationLabel": "1:30",
+          "credit": "Pablo Vázquez、Beorn Leonard、Francesco Siddi · 音乐与音效 Jan Morgenstern",
+          "license": "CC BY 3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Caminandes-_Llama_Drama_-_Short_Movie.ogv",
+          "original": "Llama Drama",
+          "description": "科罗想穿过一条繁忙的公路，路边的犰狳却总比它先找到空隙。",
+          "sources": [
+            "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4",
+            "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/Caminandes-_Llama_Drama_-_Short_Movie.ogv/Caminandes-_Llama_Drama_-_Short_Movie.ogv.360p.mpeg4.mov"
+          ],
+          "sourceQualities": {
+            "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4": 1080,
+            "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/Caminandes-_Llama_Drama_-_Short_Movie.ogv/Caminandes-_Llama_Drama_-_Short_Movie.ogv.360p.mpeg4.mov": 360
+          }
+        },
+        {
+          "title": "围栏那边",
+          "durationLabel": "2:26",
+          "credit": "© caminandes.com / Blender Institute · Pablo Vázquez、Beorn Leonard、Francesco Siddi · 音乐 Jan Morgenstern",
+          "license": "CC BY-SA 3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Caminandes_-_Gran_Dillama_-_Blender_Foundation%27s_new_Open_Movie.webm",
+          "original": "Gran Dillama",
+          "description": "围栏另一侧的草看起来更绿。科罗想方设法过去，却一次次被挡住。",
+          "sources": [
+            "https://video.blender.org/object-storage/web_videos/fb70d459-48d2-4db5-adba-813c84f9200a-720.mp4",
+            "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4",
+            "https://video.blender.org/object-storage/web_videos/fb70d459-48d2-4db5-adba-813c84f9200a-480.mp4"
+          ],
+          "sourceQualities": {
+            "https://video.blender.org/object-storage/web_videos/fb70d459-48d2-4db5-adba-813c84f9200a-720.mp4": 720,
+            "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4": 1080,
+            "https://video.blender.org/object-storage/web_videos/fb70d459-48d2-4db5-adba-813c84f9200a-480.mp4": 480
+          }
+        },
+        {
+          "title": "羊驼与企鹅",
+          "durationLabel": "2:30",
+          "credit": "(CC) Blender Foundation | studio.blender.org · 导演 Pablo Vázquez",
+          "license": "CC BY 3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm",
+          "original": "Llamigos",
+          "description": "在冰雪覆盖的山地，科罗遇到了一只同样盯上最后一颗浆果的企鹅。",
+          "sources": [
+            "https://video.blender.org/object-storage/web_videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-720.mp4",
+            "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4",
+            "https://video.blender.org/object-storage/web_videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-480.mp4"
+          ],
+          "sourceQualities": {
+            "https://video.blender.org/object-storage/web_videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-720.mp4": 720,
+            "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4": 1080,
+            "https://video.blender.org/object-storage/web_videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-480.mp4": 480
+          }
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "title": "咖啡小跑",
+      "original": "Coffee Run",
+      "year": "2020",
+      "length": "3 分钟",
+      "genres": [
+        "爱情",
+        "动画"
+      ],
+      "description": "一杯咖啡让年轻女孩跑过一幕幕回忆。关于上一段感情，有些画面像咖啡一样又苦又甜。",
+      "image": "assets/coffee.webp",
+      "source": "https://www.blender.org/press/coffee-run-open-movie/",
+      "repository": "https://github.com/NoMercy-Entertainment/nomercy-media",
+      "credit": "(CC) Blender Foundation | studio.blender.org · 导演 Hjalti Hjálmarsson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://studio.blender.org/projects/coffee-run/pages/licensing/",
+      "changes": "封面为原片画面裁切。",
+      "region": "荷兰",
+      "creators": [
+        "Hjalti Hjálmarsson"
+      ],
+      "episodes": [
+        {
+          "title": "咖啡小跑",
+          "durationLabel": "3:04",
+          "sources": [
+            "https://video.blender.org/object-storage/web_videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-720.mp4",
+            "https://archive.org/download/coffee-run/Coffee%20Run.mp4",
+            "https://video.blender.org/object-storage/web_videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-480.mp4"
+          ],
+          "sourceQualities": {
+            "https://video.blender.org/object-storage/web_videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-720.mp4": 720,
+            "https://archive.org/download/coffee-run/Coffee%20Run.mp4": 536,
+            "https://video.blender.org/object-storage/web_videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-480.mp4": 480
+          }
+        }
+      ]
+    },
+    {
+      "id": "biscuit",
+      "title": "饼干狗变英雄",
+      "original": "Biscuit: From Stray Dog to Superhero",
+      "year": "",
+      "length": "1 分钟",
+      "genres": [
+        "冒险",
+        "动画",
+        "竖屏"
+      ],
+      "description": "名叫饼干的流浪小狗，有了当超级英雄的机会。",
+      "image": "assets/biscuit.webp",
+      "source": "https://github.com/dlaneycreative-design/studio-open",
+      "repository": "https://github.com/dlaneycreative-design/studio-open",
+      "credit": "Biscuit / Studio Open clips by The Studio (thestudio.io), CC BY 4.0",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://github.com/dlaneycreative-design/studio-open/blob/main/LICENSE.md",
+      "changes": "封面为原片画面裁切，正片保留竖屏画幅。",
+      "creators": [
+        "The Studio"
+      ],
+      "episodes": [
+        {
+          "title": "饼干狗变英雄",
+          "durationLabel": "1:00",
+          "sources": [
+            "https://cdn.jsdelivr.net/gh/dlaneycreative-design/studio-open@main/biscuit/biscuit-from-stray-dog-to-superhero.mp4",
+            "https://raw.githubusercontent.com/dlaneycreative-design/studio-open/main/biscuit/biscuit-from-stray-dog-to-superhero.mp4"
+          ],
+          "sourceQualities": {
+            "https://cdn.jsdelivr.net/gh/dlaneycreative-design/studio-open@main/biscuit/biscuit-from-stray-dog-to-superhero.mp4": 720,
+            "https://raw.githubusercontent.com/dlaneycreative-design/studio-open/main/biscuit/biscuit-from-stray-dog-to-superhero.mp4": 720
+          }
+        }
+      ]
+    }
+  ]
+}
